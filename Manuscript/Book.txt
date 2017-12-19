@@ -1,9 +1,8 @@
 01_Foreword.txt
 02_What.txt
 03_Who.txt
+04_Language.txt
 
-Language.txt
-PaintingRoom.txt
 
 Sessions.txt
 SolutionFocused.txt
@@ -11,6 +10,8 @@ AppreciativeInquiry.txt
 PairCoaching.txt
 ClickRewind.txt
 CrucialConversations.txt
+PaintingRoom.txt
 
 Stories.txt
+
 
