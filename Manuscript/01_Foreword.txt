@@ -1,0 +1,6 @@
+# Foreword {#Foreword}
+
+This book was created to help people that want to have a local CoachRetreat
+
+Yves Hanoulle 
+December 2017
