@@ -13,6 +13,12 @@
 013_CircleOfQuestions.txt
 014_PaintingRoom.txt
 015_Stories.txt
+016_Scenario_1.txt
+017_Scenario_2.txt
+018_Scenario_3.txt
+019_Scenario_4.txt
+020_Scenario_5.txt
+021_Scenario_6.txt
 
 050_Translations
 
