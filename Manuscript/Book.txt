@@ -20,7 +20,7 @@
 020_Scenario_5.txt
 021_Scenario_6.txt
 
-050_Translations
+050_Translations.txt
 
 080_PowerFullQuestions.txt
 099_Facilitators.txt
