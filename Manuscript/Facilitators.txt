@@ -1,3 +1,11 @@
+#Facilitators
+
+This is the list of people who already faciltated a CoachRetreat. 
+If you know any of these, you can ask them to help you organize your own CoachRetreat. 
+In alphabetical order on firstname. 
+The languages behind their name, are the languages they understand enough to follow a CoachRetreat. 
+
+
 Carrie Driscoll 
 Christophe Keromen 
 Damon Poole 
