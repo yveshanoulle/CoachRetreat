@@ -14,6 +14,8 @@
 014_PaintingRoom.txt
 015_Stories.txt
 
+050_Translations
+
 080_PowerFullQuestions.txt
 099_Facilitators.txt
 100_Resources.txt
