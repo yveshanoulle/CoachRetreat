@@ -1,6 +1,8 @@
 #Translations
 In this part we will have pages with translations of the original Stories.
 
-## Dutch - Nederlands
-## French - Français
-## German - Deutsch
+##Dutch - Nederlands
+
+##French - Français
+
+##German - Deutsch
