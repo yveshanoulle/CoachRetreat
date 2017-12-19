@@ -14,7 +14,9 @@
 14_PaintingRoom.txt
 15_Stories.txt
 
-
+80_PowerFullQuestions.txt
 99_Facilitators.txt
+100_Resources.txt
+
 
 
