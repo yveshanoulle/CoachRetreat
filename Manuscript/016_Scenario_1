@@ -1,4 +1,4 @@
-#Scenario
+##Scenario 1
 
 You work with 4 people on a project, which is behind schedule and over budget. You were brought in two weeks ago by your manager as a technical leader to help with the project completion. The level of quality of the code is quite low. The requirement was: “take this legacy system and port it to this new environment, iso-functional”. Explanations about what the system is expected to be doing are coming in the form of 200 bug reports.
 On day 1, you proposed that all debugging, testing and programming be done in pairs. The team agreed and have been enjoying some (modest) results as of today.  
