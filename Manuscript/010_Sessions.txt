@@ -1,0 +1,14 @@
+# Sessions
+
+During the day we have multiple sessions where we practise different techniques. These sessions have this format:
+
+We experiment with one technique for 65 Minutes.
+
++ 5 minutes explaining the problem
++ 10 minutes of working
++ 5 minutes local debrief
++ 10 min replay with the same actors
++ 5 min local debrief
++ 10 min replay with the same actors
++ 5 min local debrief
++ 15 min of group debrief (retrospective)
