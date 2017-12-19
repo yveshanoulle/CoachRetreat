@@ -1,0 +1,6 @@
+##Circle of Questions
+
+A good workshop has a designed closing. As we allow organizers to select their own exercises out of our list, Yves thinks it is a good idea to have always the same closing session for all CoachRetreats. 
+Their are many great ways to end workshops. Circle of questions is one of these great exercises. 
+I learned about the exercise in the original book on agile retrospectives from Diana Larsen and Estehr Derby.
+
