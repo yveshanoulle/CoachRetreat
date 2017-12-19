@@ -2,16 +2,16 @@
 02_What.txt
 03_Who.txt
 04_Language.txt
-
-
-Sessions.txt
-SolutionFocused.txt
-AppreciativeInquiry.txt
-PairCoaching.txt
-ClickRewind.txt
-CrucialConversations.txt
-PaintingRoom.txt
-
-Stories.txt
+05_Sessions.txt
+06_CheckIn.txt
+07_ClickRewind.txt
+08_PairCoaching.txt
+09_YesAnd.txt
+10_AppreciativeInquiry.txt
+11_SolutionFocused.txt
+12_CrucialConversations.txt
+13_CircleOfQuestions.txt
+14_PaintingRoom.txt
+15_Stories.txt
 
 
