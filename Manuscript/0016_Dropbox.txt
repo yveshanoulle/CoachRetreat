@@ -1,0 +1,5 @@
+#Dropbox
+
+We have a dropbox folder where we save all the content created for CoachRetreat.
+Some of that content (the stories) will gradually move to this book.
+Things like pictures and slides will stay on the dropbox folder.
