@@ -1,4 +1,4 @@
-#Intro
+##Intro
 
 You don't get a second chance to create a first impression. 
 As a facilitator during the intro you set the tone of the rest of the event.
