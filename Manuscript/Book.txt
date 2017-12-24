@@ -2,32 +2,48 @@
 002_What.txt
 003_Who.txt
 004_Language.txt
-005_AhaWall.txt
 
-010_Sessions.txt
-011_CheckIn.txt
-012_ClickRewind.txt
-013_PairCoaching.txt
-014_YesAnd.txt
-015_AppreciativeInquiry.txt
-016_SolutionFocused.txt
-017_CrucialConversations.txt
-018_CircleOfQuestions.txt
-019_PaintingRoom.txt
+010_Preparation.txt
+011_Location.txt
+012_Eventbrite.txt
+013_Mailinglist.txt
+014_Invitation.txt
 
-030_Stories.txt
-031_Scenario_1.txt
-032_Scenario_2.txt
-033_Scenario_3.txt
-034_Scenario_4.txt
-035_Scenario_5.txt
-036_Scenario_6.txt
+014_Supplies.txt
 
-050_Translations.txt
+020_TheDay.txt
+021_AhaWall.txt
+021_Pictures.txt
+022_Slides.txt
+023_Twitter.txt
+024_Intro.txt
+025_Checkin.txt
+026_PaintingRoom.txt
 
-080_PowerFullQuestions.txt
-090_Facilitators.txt
-100_Resources.txt
+100_Sessions.txt
+101_ClickRewind.txt
+102_PairCoaching.txt
+103_YesAnd.txt
+104_AppreciativeInquiry.txt
+105_SolutionFocused.txt
+106_CrucialConversations.txt
+107_CircleOfQuestions.txt
+108_CleanLanguage.txt
+
+200_Stories.txt
+201_Scenario_1.txt
+202_Scenario_2.txt
+203_Scenario_3.txt
+204_Scenario_4.txt
+205_Scenario_5.txt
+206_Scenario_6.txt
+
+300_Translations.txt
+
+1000_PowerFullQuestions.txt
+2000_Facilitators.txt
+2001_Authors.txt
+3000_Resources.txt
 
 
 
