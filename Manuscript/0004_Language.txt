@@ -1,4 +1,4 @@
-#Language
+##Language
 
 The hardest rule for CoachRetreat organizers is the language. Yves is convinced that learning to listen to someone is already hard enough in our mothertongue. Hence he insists that CoachRetreat is organized in one language.
 
