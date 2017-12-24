@@ -18,7 +18,8 @@
 023_Twitter.txt
 024_Intro.txt
 025_Checkin.txt
-026_PaintingRoom.txt
+026_CircleOfQuestions.txt
+027_PaintingRoom.txt
 
 100_Sessions.txt
 101_ClickRewind.txt
@@ -27,8 +28,7 @@
 104_AppreciativeInquiry.txt
 105_SolutionFocused.txt
 106_CrucialConversations.txt
-107_CircleOfQuestions.txt
-108_CleanLanguage.txt
+107_CleanLanguage.txt
 
 200_Stories.txt
 201_Scenario_1.txt
