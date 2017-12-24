@@ -1,4 +1,4 @@
-#Supplies
+##Supplies
 
 We don't need much supplies for a CoachRetreat
 
