@@ -1,9 +1,9 @@
 ## Click Rewind
 
-Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.It's a very simple that he prefers to use during the first session. For two reasons during the first session. 
+Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.It's a very simple techniqie that he prefers to use during the first session. For two reasons during the first session. 
 
-+ We want people to still talk in a freestyle. Their own style
-+ By introducing this technique early on, we notice that people keep using it during the rest of the CoachRetreat.
++ We want people to to start with their style.  
++ By introducing this technique early on, we notice that people keep using it during the rest of the CoachRetreat. Which helps them understanding other techniques. 
 
 
 
@@ -13,6 +13,7 @@ The CLICK! protocol lets you stop the time.
 Why would you want to do this?
 Have you ever been in a situation where you are asked a question that you did not expect so you need to pause and think? Or where you want to back in time to take back something you said?
 That’s when you need to use CLICK!
+
 Instead of speaking without thinking, you can pause the scene for 60 seconds and consult your team. And if 60 seconds are not enough, you can re-click when the previous CLICK! is finished.
 
 ###UnClick !
