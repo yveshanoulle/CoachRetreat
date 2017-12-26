@@ -1,3 +1,10 @@
 #Resources
 
-These are the books, blogposts, video's etc that we mention in this manual. 
+These are the books, blogposts, video's etc about techniques we mention in this manual. 
+
+###Click-Rewind
+
++ [The McCarthy Show](http://www.mccarthyshow.com/online/)
++ [TimeTraveling ](http://www.hanoulle.be/2011/11/click-unclick-rewind-timetraveling-tools-for-discussions/)
++ [Article in methods and tools about the Core Protocols ](http://www.methodsandtools.com/archive/archive.php?id=111)
++ [Agile thrusday quiz on the Core Protocols ](http://www.hanoulle.be/2011/12/agile-thursday-quiz-about-the-core-protocols/)
