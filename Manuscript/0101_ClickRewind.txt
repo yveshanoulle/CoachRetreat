@@ -1,6 +1,10 @@
 ## Click Rewind
 
-Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.
+Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.It's a very simple that he prefers to use during the first session. For two reasons during the first session. 
+A) We want people to still talk in a freestyle. Their own style
+B) By introducing this technique early on, we notice that people keep using it during the rest of the CoachRetreat.
+
+
 
 ###Click !
 
