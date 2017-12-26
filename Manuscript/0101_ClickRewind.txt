@@ -2,3 +2,16 @@
 
 Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.
 
+###Click !
+
+The CLICK! protocol lets you stop the time.
+Why would you want to do this?
+Have you ever been in a situation where you are asked a question that you did not expect so you need to pause and think? Or where you want to back in time to take back something you said?
+That’s when you need to use CLICK!
+Instead of speaking without thinking, you can pause the scene for 60 seconds and consult your team. And if 60 seconds are not enough, you can re-click when the previous CLICK! is finished.
+
+###UnClick!
+At any moment between CLICK! and the automatic unfreeze, you can also say UnClick!, which will unfreeze the frozen people.
+###Rewind!
+At any moment between Click! and the automatic unfreeze, you can use Rewind! to go back to a particular moment and restart from that point. For example, if you say something you want to change, say “Click! Rewind to before I said X”
+
