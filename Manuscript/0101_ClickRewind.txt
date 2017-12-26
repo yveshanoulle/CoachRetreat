@@ -1,5 +1,6 @@
 ## Click Rewind
 
+###Intro
 Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.It's a very simple techniqie that he prefers to use during the first session. For two reasons during the first session. 
 
 + We want people to to start with their style.  
