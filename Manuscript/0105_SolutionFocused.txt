@@ -1,6 +1,13 @@
 ##Solution Focused
 
-Help the coachee form a concrete vision of a preferred future and focus the coachee’s attention on building solutions through a structured series of questions.
+###Intro
+
+When writing software, fixing problems is about finding the bigs and remove them. That's a great way to write better software. Unfortunaly that does not work with people. Removing bugs from our wetware is hard.
+Hence focussing on he problems isnt't the best solution. Hence solution focus. 
+The idea of solution focus, is that the coach will help the coachee form a concrete vision of a preferred future. 
+
+ and focus the coachee’s attention on building solutions through a structured series of questions.
+
 
 ###Miracle Questions
 
