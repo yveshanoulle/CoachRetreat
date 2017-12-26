@@ -10,8 +10,9 @@ Have you ever been in a situation where you are asked a question that you did no
 That’s when you need to use CLICK!
 Instead of speaking without thinking, you can pause the scene for 60 seconds and consult your team. And if 60 seconds are not enough, you can re-click when the previous CLICK! is finished.
 
-###UnClick!
+###UnClick !
 At any moment between CLICK! and the automatic unfreeze, you can also say UnClick!, which will unfreeze the frozen people.
-###Rewind!
+
+###Rewind !
 At any moment between Click! and the automatic unfreeze, you can use Rewind! to go back to a particular moment and restart from that point. For example, if you say something you want to change, say “Click! Rewind to before I said X”
 
