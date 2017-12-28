@@ -1,1 +1,7 @@
 ##Check in
+
+We use the Check in exercice of the Core Protocols (http://liveingreatness.com/core-protocols/check-in) from the book Software for Your Head (https://liveingreatness.com/software-for-your-head-book) by Jim and Michele McCarthy.
+
+Successively each participant says "I feel [one or more of MAD, SAD, GLAD, AFRAID]" and may add a brief explanation. Then she says "I'm in.". The others respond "Welcome."
+
+This quick connection allows everybody to observe his/her internal state and share it with the group. This activity opens the day with an authentic welcome and benevolent atmosphere.
