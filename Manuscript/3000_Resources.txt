@@ -2,6 +2,11 @@
 
 These are the books, blogposts, video's etc about techniques we mention in this manual. 
 
+### Blogs on CoachRetreat
+
++ [Oana Juncu](http://oanasagile.blogspot.fr/2011/09/coachretreat.html)
++ [Yves Hanoulle](http://www.hanoulle.be/2012/01/what-is-a-coach-retreat)
+
 ###Click-Rewind
 
 + [The McCarthy Show](http://www.mccarthyshow.com/online/)
