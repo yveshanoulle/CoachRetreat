@@ -1,9 +1,9 @@
 ## Click Rewind
 
 ###Intro
-Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp.It's a very simple techniqie that he prefers to use during the first session. For two reasons during the first session. 
+Yves learned this technique from Jim & Michelle McCarthy during his first McCarthy CoreProtocol bootcamp. It's a very simple technique that he prefers to use during the first session for two reasons : 
 
-+ We want people to to start with their style.  
++ We want people to start with their style.  
 + By introducing this technique early on, we notice that people keep using it during the rest of the CoachRetreat. Which helps them understanding other techniques. 
 
 
@@ -23,3 +23,6 @@ At any moment between CLICK! and the automatic unfreeze, you can also say UnClic
 ###Rewind !
 At any moment between Click! and the automatic unfreeze, you can use Rewind! to go back to a particular moment and restart from that point. For example, if you say something you want to change, say “Click! Rewind to before I said X”
 
+
+
+This technique is a powerful way to learn by trying without fear of making mistakes (we learn from mistakes, don't we?).
