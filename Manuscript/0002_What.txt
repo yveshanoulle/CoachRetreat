@@ -1,14 +1,9 @@
 #What is a CoachRetreat?
 
-###CoachRetreat = Coaching Dojo + Code Retreat 
+##CoachRetreat = Coaching Dojo + Code Retreat 
 
 Coaching Dojo, created by Rachel Davies, focused on 1-session practicing on 'agile coaching problem' Kata by groups : 1 seeker (brings the problem), a pair of coaches (or a team of coaches) and observers. At the end of the session, the observers give feedbacks about the coaching style and suggest improvements.
 
 Code Retreat, co-created by Coray Haynes, focused on learning by repeting the same 'software development problem' Kata over 45 min length sessions followed by retrospective along a whole saturday.
 
 A CoachRetreat is a one day workshop, where people can experiment and improve their coaching skills on katas.
-There is one hard rule, at CoachRetreat we speak the local language. 
-
-sources :
-Oana Juncu : http://oanasagile.blogspot.fr/2011/09/coachretreat.html
-Yves Hanoulle : http://www.hanoulle.be/2012/01/what-is-a-coach-retreat
