@@ -7,19 +7,23 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 + [Oana Juncu](http://oanasagile.blogspot.fr/2011/09/coachretreat.html)
 + [Yves Hanoulle](http://www.hanoulle.be/2012/01/what-is-a-coach-retreat)
 
+###Check In / Core protocols
++ [The McCarthy Check in protocol](http://liveingreatness.com/core-protocols/check-in)
++ [Jim and Michele McCarthy book on the Core Protocols] (https://liveingreatness.com/software-for-your-head-book)
+
 ###Click-Rewind
 
 + [The McCarthy Show](http://www.mccarthyshow.com/online/)
-+ [TimeTraveling ](http://www.hanoulle.be/2011/11/click-unclick-rewind-timetraveling-tools-for-discussions/)
-+ [Article in methods and tools about the Core Protocols ](http://www.methodsandtools.com/archive/archive.php?id=111)
-+ [Agile thrusday quiz on the Core Protocols ](http://www.hanoulle.be/2011/12/agile-thursday-quiz-about-the-core-protocols/)
++ [TimeTraveling](http://www.hanoulle.be/2011/11/click-unclick-rewind-timetraveling-tools-for-discussions/)
++ [Article in methods and tools about the Core Protocols](http://www.methodsandtools.com/archive/archive.php?id=111)
++ [Agile thursday quiz on the Core Protocols](http://www.hanoulle.be/2011/12/agile-thursday-quiz-about-the-core-protocols/)
 
 ###Appreciative Inquiry
 
 + [Powerfull questions](https://design.umn.edu/about/intranet/documents/AppreciativeInquiry-Asking%20Powerful%20Questions.pdf)
 + [Appreciative Team Building book](https://www.amazon.ca/Appreciative-Team-Building-Positive-Questions/dp/B00DEKG3K4/)
 + [taosinstitute](www.taosinstitute.net)
-+ [Positive change ](positivechange.org)
++ [Positive change](positivechange.org)
 
 ###Soluction Focussed
 
