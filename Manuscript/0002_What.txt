@@ -7,3 +7,5 @@ Coaching Dojo, created by Rachel Davies, focused on 1-session practicing on 'agi
 Code Retreat, co-created by Coray Haynes, focused on learning by repeting the same 'software development problem' Kata over 45 min length sessions followed by retrospective along a whole saturday.
 
 A CoachRetreat is a one day workshop, where people can experiment and improve their coaching skills on katas.
+
+There is one hard rule, at CoachRetreat we speak the local language. 
