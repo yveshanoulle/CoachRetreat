@@ -8,7 +8,3 @@ Code Retreat, co-created by Coray Haynes, focused on learning by repeting the sa
 
 A CoachRetreat is a one day workshop, where people can experiment and improve their coaching skills on katas.
 There is one hard rule, at CoachRetreat we speak the local language. 
-
-sources :
-Oana Juncu : http://oanasagile.blogspot.fr/2011/09/coachretreat.html
-Yves Hanoulle : http://www.hanoulle.be/2012/01/what-is-a-coach-retreat
