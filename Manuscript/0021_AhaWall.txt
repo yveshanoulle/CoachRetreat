@@ -1,3 +1,5 @@
 ##Aha Wall
 
 During CoachRetreat we use an aha wall to collect the things the participants learn or want to share with eachother. 
+
+![aha Wall](images/aha-board.jpg)
