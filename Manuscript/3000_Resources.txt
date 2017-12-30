@@ -9,7 +9,7 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 
 ###Check In / Core protocols
 + [The McCarthy Check in protocol](http://liveingreatness.com/core-protocols/check-in)
-+ [Jim and Michele McCarthy book on the Core Protocols] (https://liveingreatness.com/software-for-your-head-book)
++ [Jim and Michele McCarthy book on the Core Protocols](https://liveingreatness.com/software-for-your-head-book)
 
 ###Click-Rewind
 
