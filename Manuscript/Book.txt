@@ -40,6 +40,13 @@
 0206_Scenario_6.txt
 
 0300_Translations.txt
+0301_Scenario_1.txt
+0302_Scenario_2.txt
+0303_Scenario_3.txt
+0304_Scenario_4.txt
+0305_Scenario_5.txt
+0306_Scenario_6.txt
+
 
 1000_PowerFullQuestions.txt
 2000_Facilitators.txt

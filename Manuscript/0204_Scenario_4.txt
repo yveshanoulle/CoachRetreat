@@ -1,5 +1,9 @@
 ##Scenario 4
 
-Alan is an IT person who is very enthusiastic about Agility; He decided to go for Agile for all projects. 
-His development teams are also on board and motivated to do Scrum. They had previously experience in Agile. To implement the project, they chose Muriel as a PO. She is a Business Analyst. It has been said that Agile must provide specifications as simple user stories. That could work for Alan, but actually it is not very clear: what does “simple” mean? Muriel has other responsibilities outside of her role as a PO. She does not understand how to manage the scope of the application and she cannot give priorities without prior notice from business managers; most of the time, everything is a priority.
-The development team believes that User Stories are not written well enough, and Muriel is frustrated because what is demoed works only partly; the development team blame that the acceptance test are not provided, user stories are unclear and put the sprints at risk...
+**Alan** is an IT person who is very enthusiastic about agility; He decided to go for agile for all projects. 
+His development teams are also on board and motivated to do Scrum. They had previously experience in agile. To implement the project, they chose **Murielle** as a PO. She is a Business Analyst. 
+It has been said that agile must provide specifications as simple user stories. That could work for Alan, but actually it is not very clear: what does “simple” mean? Murielle has other responsibilities outside of her role as a PO. 
+
+She does not understand how to manage the scope of the application and she cannot give priorities without prior notice from business managers; most of the time, everything is a priority.
+
+The development team believes that User Stories are not written well enough, and Murielle is frustrated because what is demoed works only partly; the development team blame that the acceptance test are not provided, user stories are unclear and put the sprints at risk...

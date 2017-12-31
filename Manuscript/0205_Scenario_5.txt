@@ -1,7 +1,11 @@
 ##Scenario 5
 
 
-An audit of The Regulation Office has identified that a CRM application was not properly tested. Following this audit, performing tests was reported as a high priority by the top management of IT. Management asked for KPIs for tests, so they can show progress in order to present them to the REO (Regulation Executive Officer). Nothing happens. Ron, a project management don’t really support this initiative, his focus is to make teams deliver fast to meet clients requirements. Teams don’t see testing as a valuable activity.
-Tests are done manually and there is a poor formalization of tests. They are slow and inefficient. The lack of test environments created a bottleneck in the delivery process. In addition, applications are delivered late to the Q&A teams. Usually they have less than a week to test before the products needs to go in production, and Muriel, the head of the Q&A team has more than enough of this situation. 
-Actually, all teams are passing the baton: for Ron and his development teams, it’s the test team that should look after tests; for Muriel and the test team it is the responsibility of the development team to deliver a high quality product.
-Ron’s manager has to report the requested KPIs. They called you in as an Agile coach to make all this hell work together.
+An audit of The Regulation Office has identified that a CRM application was not properly tested. Following this audit, performing tests was reported as a high priority by the top management of IT. Management asked for KPIs for tests, so they can show progress in order to present them to the REO (Regulation Executive Officer). 
+
+Nothing happens. **Ron**, a project management doesn’t really support this initiative, his focus is to make teams deliver fast to meet clients requirements. Teams don’t see testing as a valuable activity.
+
+Tests are done manually and there is a poor formalisation of tests. They are slow and inefficient. The lack of test environments created a bottleneck in the delivery process. In addition, applications are delivered late to the Q&A teams. Usually they have less than a week to test before the products needs to go in production, and Jean, the head of the Q&A team has more than enough of this situation. 
+
+Actually, all teams are passing the baton: for Ron and his development teams, it’s the test team that should look after tests; for Jean and the test team it is the responsibility of the development team to deliver a high quality product.
+Ron’s manager has to report the requested KPIs. They called you in as an agile coach to make all this hell work together.

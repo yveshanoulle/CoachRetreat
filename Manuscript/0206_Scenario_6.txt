@@ -1,8 +1,12 @@
 ##Scenario 6
 
 The relationship between Business and IT is at its lowest.
-For Pierre-Antoine, a Senior VP, IT costs a fortune and produces little, they see IT as bureaucratic as they always ask for more paperwork. IT is confused about how they can know what to build?
-“Just go and see how it works since last CMMI process improvement: we cannot take any action without filling in a clueless form in a SW tool, so they completely avoid any responsibility.” IT people don’t start developments until specifications are signed off, as if we had the time to read all that double! Afterwards development takes ages! The latest IT fancy?  Agile! As far as I understood , they want my people to simply do their job. They want us to be ”involved”! agile is like CMMI and ISO 9001, and other IT blah-blah fashions, it will eventually be forgotten.”
-For Patrick, an IT Services Department Manager, who struggles to deliver projects, the Business is simply unbearable:  “We do not know what they want, they are never happy and they are completely disorganized. It’s impossible to make them follow a process, they are never ready to validate the specifications so IT teams can never properly start development....
-Obviously, our relationships are strained, could Agile possibly fix things? But how to tell them that they must be involved in the development? They have already said that it does not suit them and we can only arrange to find a Product Owner in our IT teams...
+For **Pierre-Antoine**, a Senior VP, IT costs a fortune and produces little, they see IT as bureaucratic as they always ask for more paperwork. IT is confused about how they can know what to build?
+
+“Just go and see how it works since last CMMI process improvement: we cannot take any action without filling in a clueless form in a SW tool, so they completely avoid any responsibility.” IT people don’t start developments until specifications are signed off, as if we had the time to read all that double! Afterwards development takes ages! The latest IT fancy?  agile! As far as I understood , they want my people to simply do their job. They want us to be ”involved”! agile is like CMMI and ISO 9001, and other IT blah-blah fashions, it will eventually be forgotten.”
+
+For **Patrick**, an IT Services Department Manager, who struggles to deliver projects, the Business is simply unbearable:  “We do not know what they want, they are never happy and they are completely disorganised. It’s impossible to make them follow a process, they are never ready to validate the specifications so IT teams can never properly start development....
+
+Obviously, our relationships are strained, could agile possibly fix things? But how to tell them that they must be involved in the development? They have already said that it does not suit them and we can only arrange to find a Product Owner in our IT teams...
+
 You are the agile coach called in by Patrick to try agile as a last chance to get out of this mess.

@@ -1,3 +1,11 @@
 ##Scénario 2
 
-Dans une grosse entreprise, Jean-Louis est un jeune manager apprécié pour son efficacité. Il a mené des projets à terme dans les temps et a bien communiqué avec le top management. On lui a confié une équipe de développeurs qui doit travailler en méthode Agile. La démarche Agile est regardé avec intérêt par le DSI. Le client interne (marketing) est le promoteur principal, parce que l'Agilité apporte des résultats rapides pour moins cher. Jean-Louis donne beaucoup de valeur à la qualité du reporting, il a lu que Scrum fournit des indicateurs de performance de l'équipe (la vélocité). Du coup, les membres de l'équipe doivent lui fournir des indicateurs d'avancement quotidiens pour mettre à jour les burn-down charts. Louise, la PO remet en cause les estimations en story points. L'équipe en a conclu que SCRUM est une méthode de "flicage". Vous arrivez dans ce contexte pour accompagner l'équipe pour "haute performance". L'objectif de Jean-Louis est d'avoir de la visibilité. Il s'attend à ce que vous augmentiez la visibility. Louise ne voit tout de même pas grand-chose venir...
+Dans une grosse entreprise, **Jean-Louis** est un jeune manager apprécié pour son efficacité. Il a mené des projets à terme dans les temps et a bien communiqué avec le top management. On lui a confié une équipe de développeurs qui doit travailler en méthode agile. La démarche Agile est regardé avec intérêt par le DSI. 
+
+Le client interne (marketing) est le promoteur principal, parce que l’agilité apporte des résultats rapides pour moins cher. Jean-Louis donne beaucoup de valeur à la qualité du reporting, il a lu que Scrum fournit des indicateurs de performance de l'équipe (la vélocité). 
+
+Du coup, les membres de l'équipe doivent lui fournir des indicateurs d'avancement quotidiens pour mettre à jour les burn-down charts. **Louise**, la PO remet en cause les estimations en story points. 
+
+L'équipe en a conclu que SCRUM est une méthode de "flicage". Vous arrivez dans ce contexte pour accompagner l'équipe pour "haute performance". L'objectif de Jean-Louis est d'avoir de la visibilité. Il s'attend à ce que vous augmentiez la visibility. 
+
+Louise ne voit tout de même pas grand-chose venir...
