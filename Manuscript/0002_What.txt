@@ -8,3 +8,12 @@ Code Retreat, co-created by Coray Haynes, focused on learning by repeating the s
 
 A CoachRetreat is a one day workshop, where people can experiment and improve their coaching skills on katas. 
 
+We love feedback loops. CoachRetreat has 5 different feedback loops.
+
++ ClickRewind lets people try saying something and replay that situation multiple times
++ During the retrospective of a technique, you have the second feedback loop
++ When you replay a story with a different coaching technique, you have a third feedback loop
++ The end of the day retro is another feedback loop
++ When people come to another CoachRetreat, they get a fifth feedback loop. 
+
+
