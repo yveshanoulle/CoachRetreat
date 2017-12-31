@@ -46,7 +46,8 @@
 0304_Scenario_4.txt
 0305_Scenario_5.txt
 0306_Scenario_6.txt
-
+0400_Dutch.txt
+0500_German.txt
 
 1000_PowerFullQuestions.txt
 2000_Facilitators.txt
