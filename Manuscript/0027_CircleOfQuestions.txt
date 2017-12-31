@@ -8,13 +8,20 @@ I learned about the exercise in the original book on agile retrospectives from D
 
 + Invited participants to stand in a circle. Introduce the activity. “You have all been part of the same CoachRetreat. Yet our experiences differ. We’ll ask questions to find out what others have experienced. We’ll go around the room asking a question to each of you.
 
-+ This Circle of Questions is a little different then the one described by Esther and Diana. In this version you don’t have to ask the question to the person next to you. You can ask a question to a person who has not asked a question yet. Except the last person she has to ask question to the person who starts. As a facilitator we are not part of 
++ This Circle of Questions is a little different then the one described by Esther and Diana. In this version you don’t have to ask the question to the person next to you. You can ask a question to a person who has not asked a question yet. Except the last person she has to ask question to the person who starts. As a facilitator we are not part of the circle.  
 
 ### Example
 
 + Jef: Jerry how was this experience different from your first CoachRetreat
 + Jerry answers and then asks Diana, you were not sure if CoachRetreat was something for you. How do you feel about CR now?
-+ Diana answers. 
++ Diana answers. She continues with a question for Jef, yet that is now allowed. (He was the first to ask a question…) After a brief moment she now has a question for Anna.
++ Anna
+….
+
++ Maria was the last to ask a question, so she has to ask her question to Jef.
+
+
+
 
 
 
