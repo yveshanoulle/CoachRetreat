@@ -12,3 +12,5 @@ We experiment with one technique for 65 Minutes.
 + 10 min replay with the same actors
 + 5 min local debrief
 + 15 min of group debrief (retrospective)
+
+

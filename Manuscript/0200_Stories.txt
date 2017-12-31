@@ -5,5 +5,6 @@ The idea is to give you one page per story that you as an organiser can print. I
 
 The stories contain names to make it easier to talk about these scenarios. Yet we on purpose don't define which person in these stories is the one that is coached. Everytime a session is launched, the coach and coachee can agree on who to coach. 
 
+All sessions will use the same story except for the very last. Many first timers to CoachRetreat don’t like this when they first hear it, yet so far all but one have told us afterword that that feedback loop from reusing the same story with a different technique was very usefull. So before we start the group should have chosen one story. Every participant gets one vote. In the end, the story itself is not important, it only helps as a hook to get started. That is also why it’s not important when people move the story in a different direction as other participants did read in the story. Also that is real life, you might think that a coachee has a certain problem and it turns out to be something completely different. That is why it’s also ok that in different sessions the story might go in a different direction, also that helps you to see the different parts of a story.
 
-
+We on purpose don’t work with a real live example of a participant. We do that to avoid that this participant wants to be the director of the situation. That is important for real coaching of this participant, yet this is not what CoachRetreat is about. CoachRetreat is about experimenting with coaching. It’s not about being coached. 
