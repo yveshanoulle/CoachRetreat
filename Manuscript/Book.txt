@@ -28,8 +28,8 @@
 0103_YesAnd.txt
 0104_AppreciativeInquiry.txt
 0105_SolutionFocused.txt
-0106_CrucialConversations.txt
-0107_CleanLanguage.txt
+0106_CleanLanguage.txt
+0107_CrucialConversations.txt
 
 0200_Stories.txt
 0201_Scenario_1.txt
