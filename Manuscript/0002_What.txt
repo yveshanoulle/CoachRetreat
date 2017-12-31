@@ -1,6 +1,6 @@
 #What is a CoachRetreat?
 
-##CoachRetreat = Coaching Dojo + Code Retreat 
+CoachRetreat = Coaching Dojo + Code Retreat 
 
 Coaching Dojo, created by Rachel Davies, focused on 1-session practicing on 'agile coaching problem' Kata by groups : 1 seeker (brings the problem), a pair of coaches (or a team of coaches) and observers. At the end of the session, the observers give feedback about the coaching style and suggest improvements.
 
