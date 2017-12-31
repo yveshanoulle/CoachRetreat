@@ -3,4 +3,5 @@
 This manual was created by multiple people.
 
 + Irene Doan
++ Oana Juncu
 + Yves Hanoulle
