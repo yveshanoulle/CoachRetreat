@@ -34,6 +34,17 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 
 + [Twelve Basic Clean Language Questions](http://www.cleanlanguage.co.uk/articles/articles/127/1/Coaching-with-Metaphor/Page1.html)
 
+###Crucial Conversations
+
++ [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/)
+
++ [Crucial Confrontations](https://www.amazon.com/Confrontations-resolving-promises-expectations-behavior/dp/B002IR7SDU)
+
++ [Crucial accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments-ebook/dp/B00C4BDRW6)
+
++ [Infleuncer](https://www.amazon.com/Influencer-Science-Leading-Change-Second-ebook/dp/B00BPO7710/)
+
+
 ###Circle of Questions
 
 + [agile retrospectives](https://www.amazon.com/Agile-Retrospectives-Making-Pragmatic-Programmers-ebook/dp/B00B03SRJW/)
