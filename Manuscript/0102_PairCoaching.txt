@@ -1,1 +1,10 @@
 ##PairCoaching
+
+In this session we need two coaches.
+You are free to coach any way you want, yet we want you to experience how it goes when you coach one coachee with two.
+
+Don’t forget to use click-rewind when your paircoach is going in a direction that surprises you. Maybe not to stop her, yet to be sure that you are both aware of the challenges of pairing while coaching.
+
+With pair programming it’s important to Work out loud, yet with paircoaching it’s harder as you want to interact to the coachee and that person might take you to unforeseen paths. 
+
+A typical way of pairing is the good cop, bad cop strategy. Be sure to also try other techniques. 
