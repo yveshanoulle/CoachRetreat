@@ -2,6 +2,7 @@
 
 This manual was created by multiple people.
 
++ Ilan Kirschenbaum
 + Irene Doan
 + Oana Juncu
 + Yves Hanoulle
