@@ -4,7 +4,7 @@ CoachRetreat = Coaching Dojo + Code Retreat
 
 Coaching Dojo, created by Rachel Davies, focused on 1-session practicing on 'agile coaching problem' Kata by groups : 1 seeker (brings the problem), a pair of coaches (or a team of coaches) and observers. At the end of the session, the observers give feedback about the coaching style and suggest improvements.
 
-Code Retreat, co-created by Coray Haynes, focused on learning by repeating the same 'software development problem' Kata over 45 min length sessions followed by retrospective along a whole saturday.
+Code Retreat, co-created by Corey Haines, focused on learning by repeating the same 'software development problem' Kata over 45 min length sessions followed by retrospective along a whole Saturday.
 
 A CoachRetreat is a one day workshop, where people can experiment and improve their coaching skills on katas. 
 
