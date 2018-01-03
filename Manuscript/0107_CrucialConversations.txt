@@ -12,12 +12,12 @@ There are three kind of conversations to have:
 1. The conversation of what goes wrong.
 This is the conversation to have when you first mention, the problem. You mention the problem and why it is a problem for you (the team ).
 
-2. The conversation about the repeating.
-When the person keeps repeating the problem and does not seem to care about fixing. The conversation to have, is not about the problem itself, but about why the person ignores the feedback.
+2. The conversation about the repeating patterns.
+When the person keeps repeating the problem and does not seem to care about or be able to fix it. The conversation to have, is not about the problem itself why the person ignores the feedback.
 
-3. The conversation about the relation
+3. The conversation about the relationship
 
-If the problem seems to persist, even after having the second kind of conversation, that it’s time to talk about the relation. Why does the person ignore a request from you/ the team. F ex: if you are friends outside work, you might feel that this person is abusing the personal relation to not fix the problem. If at this level you keep talking about the problem, the reaction will be: yes you told me before. Where for the requestor the problem is now at a totally different level. 
+If the problem seems to persist, even after having the second kind of conversation, that it’s time to talk about the relationship between the involved individuals. Why does the person ignore a request from you/ the team. For example: if you are friends outside work, you might feel that this person is abusing the personal relation to not fix the problem. If at this level you keep talking about the problem, the reaction will be: yes you told me before. Where for the requestor the problem is now at a totally different level. 
 Yves relation with his now wife benefitted a lot from understanding the different kind of relations. 
 
 The stories for CoachRetreat don’t fit well for this technique. We’ll use a different story.
