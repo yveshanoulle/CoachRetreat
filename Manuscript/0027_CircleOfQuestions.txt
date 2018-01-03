@@ -8,7 +8,7 @@ I learned about the exercise in the original book on agile retrospectives from D
 
 + Invited participants to stand in a circle. Introduce the activity. “You have all been part of the same CoachRetreat. Yet our experiences differ. We’ll ask questions to find out what others have experienced. We’ll go around the room asking a question to each of you.
 
-+ This Circle of Questions is a little different then the one described by Esther and Diana. In this version you don’t have to ask the question to the person next to you. You can ask a question to a person who has not asked a question yet. Except the last person she has to ask question to the person who starts. As a facilitator we are not part of the circle.  
++ This Circle of Questions is a little different than the one described by Esther and Diana. In this version you don’t have to ask the question to the person next to you. You can ask a question to a person who has not asked a question yet. Except the last person she has to ask question to the person who starts. As a facilitator we are not part of the circle.  
 
 ### Example
 
