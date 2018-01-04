@@ -5,7 +5,7 @@
 
 0010_Preparation.txt
 0011_Location.txt
-0012_Eventbrite.txt
+0012_Registration.txt
 0013_Mailinglist.txt
 0014_Invitation.txt
 0015_Supplies.txt
