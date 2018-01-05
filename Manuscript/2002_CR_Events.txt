@@ -1,0 +1,26 @@
+#Coach Retreat Events
+
+This is a list of past events and scheduled future events.
+We are always looking for new countries to have experienced Coach Retreat participants and facilitators.
+Check out this page to see who you know to contact. Or contact Oana or Yves to help you out
+
+{title=“Future Coach Retreats”}
+| CR No. | Location     | Date          | Notes                                                              |
+|--------|--------------|---------------|--------------------------------------------------------------------|
+| CR 31  | Belgium      | Januari 2018  |                                                                    |
+| CR XX  | Norway       |               | Aiming for a Stockholm CR                                          |
+| CR XX  | France       |               | Event requested. Potential organizers and facilitator. No date yet |
+| CR XX  | Spain        |               | Local organizers looking for date and place                        |
+| CR XX  | Germany      |               | Event requested. No organizers yet                                 |
+| CR XX  | Israel       |               | Looking for local organizers, date, place                          |
+| CR XX  | UK           |               | Looking for local organizers, date, place                          |
+
+{title=“2017 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 30  | Bangkok                   | March 18th 2017        | Dov Tsal, Kulawat Pom W.                                           |
+| CR 29  | Ann Arbor - Michigan, USA | January 28th 2017      | Joseph Hershey, Marius Jooste                                      |
+
+{title=“2016 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
