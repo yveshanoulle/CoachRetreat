@@ -50,6 +50,25 @@ Check out this page to see who you know to contact. Or contact Oana or Yves to h
 | CR 13  | Italy, Verona             | January 25th, 2014     |                                                                    |
 | CR 12  | France, Paris             | January 18th, 2014     | Oana Juncu, Adrian Prerreau-Pinninck                               |
 
-{title=“2014 Coach Retreats”}
+{title=“2013 Coach Retreats”}
 | CR No. | Location                  | Date                   | Facilitators                                                       |
 |--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 11  | Poland, Krakow            | December 5th, 2013     |                                                                    |
+| CR 10  | France, Montpellier       | November 30th, 2013    | Oana Juncu                                                         |
+| CR 09  | France, Bordeaux          | November 16th, 2013    |                                                                    |
+| CR 08  | Canada, Montreal          | September 7th, 2013    | Oana Juncu, Omar Bermudez                                          |                                          |
+| CR 07  | France, Nantes            | June 29th, 2013        |                                                                    |
+| CR 06  | Germany                   | June 14th, 2013        |                                                                    |
+| CR 05  | Belgium                   | May 11th, 2013         |                                                                    |
+| CR 04  | UK, London                | March 16th, 2013       |                                                                    |
+| CR 03  | Israel, Tel-Aviv          | January 31st, 2013     | Yves Hanoulle, Ilan Kirschenbaum                                   |
+
+{title=“2012 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 02  | France, Paris             | January 21st, 2012     | Yves Hanoulle, Oana Juncu                                          |
+
+{title=“2011 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 01  | Belgium, Gent             | September, 2011        | Yves Hanoulle, Jurgen De Smet
