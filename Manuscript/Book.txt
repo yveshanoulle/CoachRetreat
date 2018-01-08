@@ -52,6 +52,7 @@
 1000_PowerFullQuestions.txt
 2000_Facilitators.txt
 2001_Authors.txt
+2002_CR_Events.txt
 3000_Resources.txt
 5000_Closing.txt
 
