@@ -24,3 +24,32 @@ Check out this page to see who you know to contact. Or contact Oana or Yves to h
 {title=“2016 Coach Retreats”}
 | CR No. | Location                  | Date                   | Facilitators                                                       |
 |--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 28  | Belgium Internal CR       | November 19th, 2016    |                                                                    |
+| CR 27  | Lansing - Michigan, USA   | September 17th, 2016   | Mei Lim, Gabrielle Haskins                                         |
+| CR 26  | Toronto, Canada           | March 26th, 2016       |                                                                    |
+| CR 25  | Lansing - Michigan, USA   | March 5th, 2016        |                                                                    |
+| CR 24  | Israel, Tel Aviv          | January 28th, 2016     | Oana Juncu, Elad Sofer                                             |
+
+{title=“2015 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 23  | Ann-Arbor - Michigan, US  | October 31th, 2015     | Omar C. Bermudez                                                   |
+| CR 22  | Romania, Cluj             | October 3rd, 2015      | Dov Tsal Sela, Bianca Antonie, Andrei Nistor                       |
+| CR 21  | Belgium, Antwerp          | September 12th, 2015   |                                                                    |
+| CR 20  | CANADA, GTA (Toronto)     | March 28th, 2015       | Omar Bermudez, Ellen Grove                                         |
+| CR 19  | Netherlands, Veenendaal   | March 14th, 2015       |                                                                    |
+| CR 18  | France, Lille             | February 7th, 2015     |                                                                    |
+
+{title=“2014 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 17  | Canada, Montreal          | October 25th, 2014     |                                                                    |
+| CR 16  | Belgium, Haasrode         | June 28th, 2014        |                                                                    |
+| CR 15  | USA, Boston               | March 15th, 2014       |                                                                    |
+| CR 14  | France, Rennes            | February 1st, 2014     |                                                                    |
+| CR 13  | Italy, Verona             | January 25th, 2014     |                                                                    |
+| CR 12  | France, Paris             | January 18th, 2014     | Oana Juncu, Adrian Prerreau-Pinninck                               |
+
+{title=“2014 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
