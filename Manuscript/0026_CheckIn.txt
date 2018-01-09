@@ -25,16 +25,16 @@ The goal is to be fully present.
 
 ###Example:
 
-Yves: I’ll check in. 
-I’m glad I’m here today
-I’m sad I will not be with my family today
-I’m glad & afraid there are so many participants today.
-I’m mad I stayed up so late yesterday preparing for today and I’m afraid I will be tired.
-I’m glad because I know that is my default behaviour for a CoachRetreat. 
-I’m sad we have people who subscribed who did not show up or cancelled their subscription.
-I’m sad and glad Bart cancelled on time, allowing me to invite Bernard from the waiting list.
-I’m glad Bernard did make it, even if I only invited him yesterday. 
-I’m in. 
+Yves: I’ll check in. \\
+I’m glad I’m here today \\
+I’m sad I will not be with my family today \\
+I’m glad & afraid there are so many participants today. \\
+I’m mad I stayed up so late yesterday preparing for today and I’m afraid I will be tired. \\
+I’m glad because I know that is my default behaviour for a CoachRetreat. \\
+I’m sad we have people who subscribed who did not show up or cancelled their subscription. \\
+I’m sad and glad Bart cancelled on time, allowing me to invite Bernard from the waiting list. \\
+I’m glad Bernard did make it, even if I only invited him yesterday. \\
+I’m in.
 
 
 The order in which people check in, is not important. It’s important not to force people to check in in a certain order. Give them time. 
