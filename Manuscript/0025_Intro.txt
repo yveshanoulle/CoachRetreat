@@ -22,6 +22,7 @@ Again the goal of a CoachRetreat is not to make them (or yourself) fully experts
 If you are new to facilitating such events, it is a good practice to rehearse your opening, in particular if this is your first time. It is an even better practice to rehearse in front of someone you know to give you feedback.
 
 Here are some points to consider for a successful opening:
+
 + Briefly explain what a CoachRetreat is. The "What is CoachRetreat section in this book is a good source. There is a slide in the deck for that too.
 + Invite people to get acquainted. There are many ways to achieve that, and it's time well spent. It can be as simple as ask participants to pair with someone they don’t know and introduce to one another.
 + Introduce yoursef/yourselves briefly.
