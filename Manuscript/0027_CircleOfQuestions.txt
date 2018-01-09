@@ -12,11 +12,11 @@ I learned about the exercise in the original book on agile retrospectives from D
 
 ### Example
 
-+ Jef: Jerry how was this experience different from your first CoachRetreat
-+ Jerry answers and then asks Diana, you were not sure if CoachRetreat was something for you. How do you feel about CR now?
++ Jef: Jerry how was this experience different from your first CoachRetreat?
++ Jerry answers and then asks Diana: you were not sure if CoachRetreat was something for you. How do you feel about CR now?
 + Diana answers. She continues with a question for Jef, yet that is now allowed. (He was the first to ask a question…) After a brief moment she now has a question for Anna.
 + Anna
-….
++ ….
 
 + Maria was the last to ask a question, so she has to ask her question to Jef.
 
