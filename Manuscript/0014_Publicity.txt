@@ -1,10 +1,10 @@
-###Publicity
+##Publicity
 
 These days we have so many events that 
 
 + Our mailinglist
 + Eventbrite 
-+ AgileConferenc.es (The google calendars that Yves created and are now maintained by +200 people. )
++ AgileConferenc.es (The google calendars that Yves created and are now maintained by +200 people.)
 + Twitter (hashtag #CoachRetreat #CRXXX where xxx is the number of the event. )
 + Linkedin
 + the people you work with
