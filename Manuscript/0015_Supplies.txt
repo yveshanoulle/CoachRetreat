@@ -2,6 +2,7 @@
 
 We don't need much supplies for a CoachRetreat
 
++ name tags (preferable textile)  
 + normal paper for observers
 + pens
 + post it's for the AHA wall
