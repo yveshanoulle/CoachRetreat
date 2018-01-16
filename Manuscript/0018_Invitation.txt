@@ -1,0 +1,38 @@
+##Invitation
+
+Below is a proposed invitation email for Coach CoachRetreat participants. This is a mail for the people who subscribed. 
+
+Subject: Invitation to Coach Retreat next week
+
+Hi [name],
+
+We are meeting next [Saturday, Date] for a Coach Retreat.
+
+Overall schedule for the day:
+09:00 - Breakfast and mingling
+09:30 - Begin Coach Retreat
+13:00 - Lunch
+17:30 - Closing
+
+Participation in this Coach Retreat is free, and participants and facilitators bring their own food to share.
+Please bring your choice of breakfast, lunch and refreshments for breaks.
+Hot and cold beverage will be available for participants.
+As a rule of thumb, please bring enough food for yourself, so together we'll have a good amount for everyone to share.
+Please also bring utensils if needed.
+
+During the retreat, participants will work together in small groups, and each member will get a chance to act in several roles.
+We kindly ask to respect opening and closing times, so work in groups is effective and successful.
+
+The retreat will take place at:
+[Add address here]
+Parking arrangements:
+[Add parking arrangements here]
+Public transport:
+[Add public transport here]
+
+If you have constraints around times, dietary or other, please let us know by replying to this email.
+
+We are looking forward to meeting you at the retreat!
+
+Best regards,
+[facilitator] and [facilitator]

@@ -1,6 +1,6 @@
 ##Scenario 3
 
-**Marc*** manages a study department composed of several development teams. One of these teams is working in Agile mode; they "transitioned" themselves to this approach. They say they are self-organized, quite advanced with iterations, but nobody outside team seems to know what’s happening, how it works, what is done, etc... 
+**Marc** manages a study department composed of several development teams. One of these teams is working in Agile mode; they "transitioned" themselves to this approach. They say they are self-organized, quite advanced with iterations, but nobody outside team seems to know what’s happening, how it works, what is done, etc... 
 
 **Arnaud**, head of customer service platform, which represents the business in the project, seems happy. At least, there are no special alerts from him. However, he does not seem to know exactly where we are in the development of the tool.
 

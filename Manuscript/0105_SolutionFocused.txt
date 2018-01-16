@@ -2,7 +2,7 @@
 
 ###Intro
 
-When writing software, fixing problems is about finding the bigs and remove them. That's a great way to write better software. Unfortunaly that does not work with people. Removing bugs from our wetware is hard.
+When writing software, fixing problems is about finding the bugs and remove them. That's a great way to write better software. Unfortunaly that does not work with people. Removing bugs from our wetware is hard.
 Hence focussing on he problems isnt't the best solution. Hence solution focus. 
 The idea of solution focus, is that the coach will help the coachee form a concrete vision of a preferred future. 
 

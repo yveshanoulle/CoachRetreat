@@ -5,12 +5,13 @@
 
 0010_Preparation.txt
 0011_Location.txt
-0012_Eventbrite.txt
+0012_Registration.txt
 0013_Mailinglist.txt
-0014_Invitation.txt
+0014_Publicity.txt
 0015_Supplies.txt
 0016_Dropbox.txt
 0017_Food.txt
+0018_Invitation.txt
 
 0020_TheDay.txt
 0021_AhaWall.txt
@@ -46,12 +47,13 @@
 0304_Scenario_4.txt
 0305_Scenario_5.txt
 0306_Scenario_6.txt
-0400_Dutch.txt
-0500_German.txt
+#0400_Dutch.txt
+#0500_German.txt
 
 1000_PowerFullQuestions.txt
 2000_Facilitators.txt
 2001_Authors.txt
+2002_CR_Events.txt
 3000_Resources.txt
 5000_Closing.txt
 

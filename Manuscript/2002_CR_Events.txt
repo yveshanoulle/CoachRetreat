@@ -1,0 +1,74 @@
+#Coach Retreat Events
+
+This is a list of past events and scheduled future events.
+We are always looking for new countries to have experienced Coach Retreat participants and facilitators.
+Check out this page to see who you know to contact. Or contact Oana or Yves to help you out
+
+{title=“Future Coach Retreats”}
+| CR No. | Location           | Date          | Notes                                                              |
+|--------|--------------------|---------------|--------------------------------------------------------------------|
+| CR 33  | Toulouse,France    | No date yet   | Oana Juncu, Rachel Jolin Dubois                                    |
+| CR 32  | Stockholm,Sweden   | Februari 2018 | Marcin Floryan, Yves Hanoulle                                      |
+| CR 31  | Gent, Belgium      | Januari 2018  | Inge Gorgon, Yves Hanoulle                                         |
+| CR XX  | Spain              |               | Local organizers looking for date and place                        |
+| CR XX  | Germany            |               | Event requested. No organizers yet                                 |
+| CR XX  | Israel             |               | Looking for local organizers, date, place                          |
+| CR XX  | UK                 |               | Looking for local organizers, date, place                          |
+
+{title=“2017 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 30  | Bangkok                   | March 18th 2017        | Dov Tsal, Kulawat Pom W.                                           |
+| CR 29  | Ann Arbor - Michigan, USA | January 28th 2017      | Joseph Hershey, Marius Jooste                                      |
+
+{title=“2016 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 28  | Belgium Internal CR       | November 19th, 2016    | Yves Hanoulle                                                      |
+| CR 27  | Lansing - Michigan, USA   | September 17th, 2016   | Mei Lim, Gabrielle Haskins                                         |
+| CR 26  | Toronto, Canada           | March 26th, 2016       |                                                                    |
+| CR 25  | Lansing - Michigan, USA   | March 5th, 2016        |                                                                    |
+| CR 24  | Israel, Tel Aviv          | January 28th, 2016     | Oana Juncu, Elad Sofer                                             |
+
+{title=“2015 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 23  | Ann-Arbor - Michigan, US  | October 31th, 2015     | Omar C. Bermudez                                                   |
+| CR 22  | Romania, Cluj             | October 3rd, 2015      | Dov Tsal Sela, Bianca Antonie, Andrei Nistor                       |
+| CR 21  | Belgium, Antwerp          | September 12th, 2015   |                                                                    |
+| CR 20  | CANADA, GTA (Toronto)     | March 28th, 2015       | Omar Bermudez, Ellen Grove                                         |
+| CR 19  | Netherlands, Veenendaal   | March 14th, 2015       |                                                                    |
+| CR 18  | France, Lille             | February 7th, 2015     |                                                                    |
+
+{title=“2014 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 17  | Canada, Montreal          | October 25th, 2014     |                                                                    |
+| CR 16  | Belgium, Haasrode         | June 28th, 2014        |                                                                    |
+| CR 15  | USA, Boston               | March 15th, 2014       |                                                                    |
+| CR 14  | France, Rennes            | February 1st, 2014     |                                                                    |
+| CR 13  | Italy, Verona             | January 25th, 2014     |                                                                    |
+| CR 12  | France, Paris             | January 18th, 2014     | Oana Juncu, Adrian Prerreau-Pinninck                               |
+
+{title=“2013 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 11  | Poland, Krakow            | December 5th, 2013     |                                                                    |
+| CR 10  | France, Montpellier       | November 30th, 2013    | Oana Juncu                                                         |
+| CR 09  | France, Bordeaux          | November 16th, 2013    | Irène Doan, Yves Hanoulle                                          |
+| CR 08  | Canada, Montreal          | September 7th, 2013    | Oana Juncu, Omar Bermudez                                          | 
+| CR 07  | France, Nantes            | June 29th, 2013        | Oana Juncu                                                         |
+| CR 06  | Germany                   | June 14th, 2013        |                                                                    |
+| CR 05  | Belgium                   | May 11th, 2013         |                                                                    |
+| CR 04  | UK, London                | March 16th, 2013       |                                                                    |
+| CR 03  | Israel, Tel-Aviv          | January 31st, 2013     | Ilan Kirschenbaum, Yves Hanoulle                                   |
+
+{title=“2012 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 02  | France, Paris             | January 21st, 2012     | Oana Juncu, Yves Hanoulle                                          |
+
+{title=“2011 Coach Retreats”}
+| CR No. | Location                  | Date                   | Facilitators                                                       |
+|--------|---------------------------|------------------------|--------------------------------------------------------------------|
+| CR 01  | Belgium, Gent             | September, 2011        | Jurgen De Smet, Yves Hanoulle                                      |
