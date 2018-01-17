@@ -3,10 +3,8 @@
 ###Intro
 
 When writing software, fixing problems is about finding the bugs and remove them. That's a great way to write better software. Unfortunaly that does not work with people. Removing bugs from our wetware is hard.
-Hence focussing on he problems isnt't the best solution. Hence solution focus. 
-The idea of solution focus, is that the coach will help the coachee form a concrete vision of a preferred future. 
-
- and focus the coachee’s attention on building solutions through a structured series of questions.
+Hence focussing on he problems isnt't the best solution. Hence solution focus.
+The idea of solution focus, is that the coach will help the coachee form a concrete vision of a preferred future - and focus the coachee’s attention on building solutions through a structured series of questions.
 
 
 ###Miracle Questions
@@ -40,5 +38,5 @@ If you had to plot yourself on a continuum where ‘1’ is the worst the circum
 ###In your “miracle” context:
 
 + “What do you think ________ would notice after ‘the miracle’ occurred?”
-+ “How do you think _________ would rate you (1‐10) about your willingness to succeed at this task?” 
++ “How do you think _________ would rate you (1‐10) about your willingness to succeed at this task?”
 + “Do you think there are times when _________ would say you are doing ___________?”
