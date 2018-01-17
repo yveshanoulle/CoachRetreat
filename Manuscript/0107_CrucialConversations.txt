@@ -1,7 +1,7 @@
 ## Crucial Conversations
 
 The books on crucial conversations contain a lot of interesting practises for coaches.
-During CoachRetreat we focus on what aspect of conversations that many people had to be thought to realise. Having the right conversation. 
+During CoachRetreat we focus on what aspect of conversations that many people had to be thought to realise. Having the right conversation.
 
 Ever worked with someone who keeps making the same mistake, no matter what you tell him?
 
@@ -20,19 +20,14 @@ When the person keeps repeating the problem and does not seem to care about or b
 
 3. The conversation about the relationship
 
-If the problem seems to persist, even after having the second kind of conversation, that it’s time to talk about the relationship between the involved individuals. Why does the person ignore a request from you/ the team. For example: if you are friends outside work, you might feel that this person is abusing the personal relation to not fix the problem. If at this level you keep talking about the problem, the reaction will be: yes you told me before. Where for the requestor the problem is now at a totally different level. 
-Yves relation with his now wife benefitted a lot from understanding the different kind of relations. 
+If the problem seems to persist, even after having the second kind of conversation, that it’s time to talk about the relationship between the involved individuals. Why does the person ignore a request from you/ the team. For example: if you are friends outside work, you might feel that this person is abusing the personal relation to not fix the problem. If at this level you keep talking about the problem, the reaction will be: yes you told me before. Where for the requestor the problem is now at a totally different level.
+Yves relation with his now wife benefitted a lot from understanding the different kind of relations.
 
 The stories for CoachRetreat don’t fit well for this technique. We’ll use a different story.
 
 ###Story:
 
 **Cedric** keeps arrive late  for the standup.
-You are the scrummaster of his team. 
+You are the scrummaster of his team.
 
-In this session, you will have three kind of conversations with Cedric. One at echo different level. To feel the difference. 
-
-
-
-
-
+In this session, you will have three kinds of conversation with Cedric. One at each of the different levels, to feel the difference.
