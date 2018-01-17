@@ -2,7 +2,7 @@
 
 ###Intro
 
-When we talk, our words carry our thoughts, beliefs and perceptions. If we want to really listen to someone, it's worth "cleaning" our language, that is removing OUR stuff from what we say. So that we are not influencing the other, our attitude could be equivalent to pure curiosity. The Clean Language is based on this principle: asking questions to help the coachee explore by him/herself with NONE of our interpretation or intention, as we want to let all the space for the coachee.   
+When we talk, our words carry our thoughts, beliefs and perceptions. If we want to really listen to someone, it's worth "cleaning" our language, that is removing **our** stuff from what we say. So that we are not influencing the other, our attitude could be equivalent to pure curiosity. The Clean Language is based on this principle: asking questions to help the coachee explore by him/herself with **none** of our interpretation or intention, as we want to let all the space for the coachee.   
 
 ###A set of 12 basic Clean Language Questions
 
@@ -28,4 +28,3 @@ When we talk, our words carry our thoughts, beliefs and perceptions. If we want 
 + And can [x] [intention of x] ?
 
 [x,y] = client's exact words
-
