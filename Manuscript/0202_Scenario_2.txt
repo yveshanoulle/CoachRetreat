@@ -5,8 +5,10 @@ In a large company, **Jean-Louis**, a young manager is appreciated for his effic
 He has led projects to completion on time and well communicated with the top management. He was given a team of developers who now must work using Agile methods. 
 
 The CIO **Luc**, takes keen interest in the Agile approach. The internal customer (marketing) is the main promoter, because Agile brings them quick results cheaper.
- Jean-Louis gives a lot of value to the quality of reporting, he read that Scrum provides indicators for team performance (velocity).
- Team members have to provide indicators of progress daily to update the burn-down charts. **Louise**, the PO challenges the estimates in story points. The team concluded that Scrum is a constrictive-control method.
+
+Jean-Louis gives a lot of value to the quality of reporting, he read that Scrum provides indicators for team performance (velocity).
+
+Team members have to provide indicators of progress daily to update the burn-down charts. **Louise**, the PO challenges the estimates in story points. The team concluded that Scrum is a constrictive-control method.
 
 You arrive in this context to coach the team for “high performance”. 
 
