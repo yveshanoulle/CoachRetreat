@@ -1,0 +1,7 @@
+##Scenario 3
+
+**Mark** beheert een departement met verschillende development teams. Eén team werkt in Agile modus. Ze hebben zichzelf het proces aangeleerd. Zij beweren zelfgeorganiseerd in sprints te werken. Maar niemand buiten het team blijkt te begrijpen wat er gebeurt, hoe het werkt, wat er effectief gedaan wordt … 
+
+**Arnoud**, hoofd van de klantenservice platform, die de business in het project vertegenwoordigt, lijkt wel tevreden te zijn. Er zijn in ieder geval geen speciale alarmkreten te horen van hem. Maar anderzijds lijkt hij geen duidelijk idee te hebben van de stand van zaken in het development van de tool.
+
+Jij moet op vraag van Marc het team coachen. Zijn doel is om na te gaan wat er nu allemaal gebeurt. Voor hem lijkt Agile een black box methode zonder organisatie.
