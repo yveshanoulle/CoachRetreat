@@ -1,0 +1,13 @@
+##Scenario 5 : Nederlands
+
+Een externe ISO audit heeft vastgesteld dat de CRM toepassingen niet naar behoren zijn getest. Na de audit worden testuitvoer door het top IT management als hoogste prioriteit gezet. Het management vraagt naar test KPI’s, zodat ze bij een volgende audit vooruitgang kunnen rapporteren. 
+
+Er gebeurt niets.** Ron**, een projectmanager, voelt niet veel voor dit initiatief. Zijn focus is om de teams snel business value te laten opleveren. De teams vinden testen geen waardevolle activiteit.
+
+Testen worden manueel uitgevoerd en zijn slecht geformaliseerd. Ze zijn traag en inefficiënt. Het gebrek aan testomgevingen zorgt voor bottlenecks in het delivery proces. Bovendien worden projecten meestal te laat opgeleverd aan de test teams.
+
+Er rest nog een week om te testen voor de toepassing in productie gaat en Jean, hoofd van het testteam, is deze situatie meer dan beu.
+
+Uiteindelijk schuiven alle teams de verantwoordelijkheid door naar een ander: voor Ron en zijn development teams zijn testen voor het test team. Voor Jean en het testteam is het de verantwoordelijkheid van het development team om kwaliteit op te leveren.
+
+Ron’s manager vraagt nu naar de rapportering van de gevraagde KPI’s. En jij wordt als coach gevraagd om dit wespennest goed te laten werken.
