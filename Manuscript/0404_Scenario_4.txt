@@ -1,0 +1,9 @@
+##Scenario 4 : Nederlands
+
+**Alain** is een IT’er die heel enthousiast is over Agile. Hij besloot daarom ook voor al zijn projecten over te stappen op Agile.
+De development teams blijken er ook voor gewonnen en gemotiveerd om Scrum te doen. Ze hadden al wat eerder ervaring met Agile. Voor het project wordt **Murielle** als PO aangeduid. Zij is een Business Analist. 
+Er wordt gezegd dat Agile de specificaties moet aanbrengen als eenvoudige user stories. Dat zou moeten werken volgens Alain, maar eigenlijk is het niet echt duidelijk: wat bedoelt men met ‘eenvoudig’? Murielle heeft trouwens nog andere verantwoordelijkheden naast haar rol als PO. 
+
+Ze verstaat de kunst niet om de scope van een applicatie te beheren en kan geen prioriteiten zetten zonder voorafgaande goedkeuring van haar managers. Meestal heeft gewoon alles prioriteit.
+
+De developers vinden de user stories niet goed genoeg en Murielle is gefrustreerd omdat de demo’s altijd maar half werken. Developers klagen dat er geen acceptatiecriteria worden gegeven, user stories zijn onduidelijk en daardoor riskeren de sprints niet gehaald te worden …
