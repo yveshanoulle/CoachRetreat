@@ -1,0 +1,11 @@
+##Scenario 6 : Nederlands
+
+De relatie tussen Business en IT is nog nooit zo slecht geweest. Voor **Pierre-Antoin**, een senior vice president, kost IT vooral en produceert het weinig. Het is vooral een afdeling die papier produceert. 
+
+Sinds de laatste CMMI verbeteringen aan het proces, kan niks meer uitgevoerd worden zonder een formulier in te vullen in een tool, zodat alle verantwoordelijkheid kan afgeschoven worden. Development start nooit zonder volledig uitgeschreven en formeel goedgekeurde requirements. Maar wie leest die? En dan duurt het development maanden. En wat is de laatste nieuwigheid: dat wij hun werk moeten doen, want ze willen voor agile gaan! Nu moeten we nog gaan meewerken in hun projecten! Ach, agile is zoals CMMI en ISO 9001, het zal wel weer overwaaien.
+
+Voor **Patrick**, hoofd van de IT afdeling, die worstelt om projecten af te krijgen, is de Business gewoon onuitstaanbaar. We weten niet wat ze willen, ze zijn nooit tevreden en volledig chaotisch georganiseerd. Je kan hen niet vragen om gewoon het proces te volgen. Een voorbeeld? Als zij de specificaties niet willen valideren, hoe weten wij dan wat we moeten maken? 
+
+Onze relatie is duidelijk gespannen. Misschien kan Scrum oplossingen bieden?  Maar hoe moeten we hen duidelijk maken dat ze betrokken moeten zijn in het development? Ze hebben al aangegeven dat ze dat niet zien zitten en we moeten dus de PO maar binnen IT vinden …
+
+Patrick huurt jou als agile Coach in in een laatste poging om uit deze miserie uit te geraken. 
