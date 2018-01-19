@@ -1,0 +1,17 @@
+##Scenario 2
+
+In een groot bedrijf wordt **Jean-Louis**, een jonge manager, gewaardeerd voor zijn efficiëntie. H
+
+Hij heeft verschillende projecten op tijd opgeleverd en zijn communicatie met het top management is voortreffelijk. Hij kreeg een development team dat Agile moet werken. 
+
+Die Agile manier van werken wordt met interesse bekeken door de CIO **Luc**. De interne klant (marketing) is de grote promotor, want agile zorgt voor snellere en goedkopere resultaten.
+
+Jean-Louis vindt de kwaliteit van de rapportering heel belangrijk. Hij heeft gelezen dat Scrum indicatoren voorziet voor team performance (velocity).
+
+De teamleden moeten van hem vooral dagelijks de vooruitgang doorgeven zodat de burndown charts upgedated kunnen worden. 
+**Louise**, de PO, vecht de schattingen in story punten aan. Het team besluit dat scrum een beknottende controle methode is.
+
+In deze context kom jij in het team om hen naar ‘high performance’ te coachen. 
+
+Jean-Louis blijft van jou verwachten dat je voor hogere visibiliteit kan zorgen. 
+Louise ziet geen toekomst in deze manier van werken …
