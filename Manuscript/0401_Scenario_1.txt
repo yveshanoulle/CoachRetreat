@@ -1,6 +1,15 @@
-Je werkt met 4 medewerkers aan een project dat achterloopt zowel op tijd als op budget. 2 weken geleden heeft jouw manager je tot technical lead van het team benoemd om het project af te werken. De codekwaliteit is behoorlijk laag. De vraag was om het legacy systeem over  te zetten naar een nieuwe omgeving en het moet hetzelfde doen als het oude systeem. Uitleg over de gewenste functionaliteiten komen binnen in de vorm van 200 defect rapporten.
+##Scenario 1 - Nederlands
+
+Je werkt met 4 medewerkers aan een project dat achterloopt zowel op tijd als op budget. 2 weken geleden heeft jouw manager **Wim** je tot technical lead van het team benoemd om het project af te werken. 
+De codekwaliteit is behoorlijk laag. 
+De vraag was om het legacy systeem over  te zetten naar een nieuwe omgeving en het moet hetzelfde doen als het oude systeem. 
+Uitleg over de gewenste functionaliteiten komen binnen in de vorm van 200 defect rapporten.
+
 Op dag 1 stelde je voor om alle debugging, testen en programmeren in pairs te doen. Het team ging akkoord en haalde tot op vandaag een aantal , weliswaar bescheiden, resultaten.
-Op dag 3 vroeg de manager jou apart om dat pair programming gedoe te stoppen, gezien het project al zo over tijd is. Je probeerde hem ervan te overtuigen dat pair programming goed was voor het team, maar dat viel in dovemansoren.
+
+Op dag 3 vroeg Wim jou apart om dat pair programming gedoe te stoppen, gezien het project al zo over tijd is. Je probeerde hem ervan te overtuigen dat pair programming goed was voor het team, maar dat viel in dovemansoren.
+
 Zowel jij als het team ondervinden dat pair programming tot betere resultaten leidt en waren tot nu van plan om dat toch zo veel mogelijk te doen.
 Vorige week had je een tweede discussie met de manager over het zelfde onderwerp, zonder succes.
+
 Gisteren had de manager een 1-to-1 meeting met iedereen van het team. Debriefing met de teamleden leert je dat hij zowel aan jou als aan de anderen opgedragen heeft om ‘te stoppen met pair programming, of anders zal ik je van het team halen en kan je herbeginnen als junior’. Elk teamlid is voor pair programming, maar wil het risico niet lopen zijn positie te verliezen in een gevecht met het management
