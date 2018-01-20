@@ -22,6 +22,7 @@
 0026_Checkin.txt
 0027_CircleOfQuestions.txt
 0028_PaintingRoom.txt
+0029_InspirationWall.txt
 
 0100_Sessions.txt
 0101_ClickRewind.txt
