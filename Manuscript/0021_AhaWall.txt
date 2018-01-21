@@ -1,8 +1,8 @@
 ##Aha Wall
 
-During CoachRetreat we use an aha wall to collect the idea’s the participants learn or want to share with each other. 
+During CoachRetreat we use an aha wall to collect what was outstanding learning for the participants or anything else people want to share with each other. 
 
 ![aha Wall](images/aha-board.jpg)
 
-It’s important to talk about the aha-wall during the intro of the day and during every retro session during the day. 
+It’s important to talk about the "aha-wall" during the intro of the day and during every retro session during the day. 
 At the end of the day It’s a good idea to walk over to the board and read the different post it’s. 
