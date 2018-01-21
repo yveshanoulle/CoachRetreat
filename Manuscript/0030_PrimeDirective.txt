@@ -1,11 +1,17 @@
 ##Prime Directive
 
-The prime directive was published by xxx in his book about project retrospectives.
-The version below is adapted, to not talk about the past, yet about the future, aka the day of teh CoachRetreat.
-To tell people, please look positive at everyone, we want people to experiment today with things they don't dare yet in the outside world. So yes they might say stupid things or things they don't believe because they play a role. 
+The prime directive is inspired by the "Start Trek" prime directive. In the Agile community world, it was published by Norman L. Kerth  in his book "Project Retrospectives: A Handbook for Team Reviews".
+The version below is an adapted future-focused one, like an intention for the at the beginning of the CoachRetreat day.
 
-So you might want to put this statement on the wall and or read it out loud. 
+The Prime directive supports a safe space to allow people experiment and dare. 
+We encourage participants to look positively at everyone. 
+We encourage people to experiment here,during the day,  things they don't dare yet elsewhere. Saying "stupid things" or things they don't believe because they play a role, it's ok. As in Open Pace technology protocol , during the COachRetreat, everythig that happends is the best think that could happen.
 
-Regardless of what we discover, we understand and truly believe that everyone does the best job they can, given what they know at the time, their skills and abilities, the people and resources available, and the situation at hand. 
+
+ The prime Directive Statement is the following :
+
+"Regardless of what we discover, we understand and truly believe that everyone does the best job they can, given what they know at the time, their skills and abilities, the people and resources available, and the situation at hand." 
+
+So you might want to put this statement on the wall and or read it out loud.
 
 At the end of today everyone will know so much more. Naturally we will discover decisions and actions we wish we could do over. This is wisdom to be celebrated, not judgment used to embarrass.
