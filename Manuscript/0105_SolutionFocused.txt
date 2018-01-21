@@ -2,34 +2,42 @@
 
 ###Intro
 
-When writing software, fixing problems is about finding the bugs and remove them. That's a great way to write better software. Unfortunaly that does not work with people. Removing bugs from our wetware is hard.
-Hence focussing on he problems isnt't the best solution. Hence solution focus.
-The idea of solution focus, is that the coach will help the coachee form a concrete vision of a preferred future - and focus the coachee’s attention on building solutions through a structured series of questions.
+Solution Focused coaching approach, known as "Solution Focused Breif Therapy"was first defined by  the American Therapist Steve de Shazer, and used for trauma family therapy. De Shazer thought that therapy methods focused on problem solving create more distress, so he switched the apporach: What if we focus on what works well, instead of what doesn't? 
+If we go back to software domain, writing software, fixing problems is about finding the bugs and remove them. That's a great way to write better software. Unfortunaly that does not work with people. Removing bugs from our wetware is hard, so focussing on he problems isnt't the best solution. Hence solution focus.
+Solution focused is a systemi coaching method, is that the coach will help the coachee form a concrete vision of a preferred future - and focus the coachee’s attention based on 3 types of systemic questions :
+
+###The Scaling Questions
+
+If you had to plot yourself on a continuum where ‘1’ is the worst the circumstance could reasonably be and ‘10’ is the best that the situation could be, where would you put yourself now?
 
 
-###Miracle Questions
+###The Miracle Questions
 
 While sleeping tonight, imagine a miracle happens. Because you are sleeping you won’t be aware that anything has happened. You will have at least part of the solution (skills, knowledge, etc.) you need.
 What will you notice that is different about you and how you behave?
 
-###Exception Questions
+
+
+###The Exception Questions
 
 + Are there times when elements of your solution happen? Tell me about those.
 + Are there times when parts of ‘the miracle’ happen? Tell me about those.
 + Are there times when the problems are not occurring? Tell me about those.
 
-Once you and the coachee have identified that some of the desired behavior does take place, at least occasionally, the advice becomes self‐evident... Do more of it!
-
-###What else?
-
 + What else would you be doing?
 + What other exceptions?
 
-###Scaling Questions
+###The Mirror Questions
 
-If you had to plot yourself on a continuum where ‘1’ is the worst the circumstance could reasonably be and ‘10’ is the best that the situation could be, where would you put yourself now?
++ What would someone near say when this miracle happends?
++ How would they know the miracle happened?
++ How would you know the moracle happened?
 
-###Coping Questions
+Once you and the coachee have identified that some of the desired behavior does take place, at least occasionally, the advice becomes self‐evident... Do more of it!
+
+
+
+###The Coping Questions
 
 + What have you done to continue to stay patient?
 + How have you survived thus far?
