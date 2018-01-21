@@ -2,7 +2,7 @@
 
 During the day we have multiple sessions where we practise different techniques. These sessions have this format:
 
-We experiment with one technique for 65 Minutes.
+We experiment with one technique for 60-65 Minutes.
 
 + 5 minutes explaining the problem
 + 10 minutes of working
@@ -13,5 +13,12 @@ We experiment with one technique for 65 Minutes.
 + 5 min local debrief
 + 15 min of group debrief (retrospective)
 
+An ther option can be 
+ 5 minutes explaining the problem
++ 40 minutes of working
++ 15 minutes local debrief
++ 5 debrief with all participants
+
+You may choose one of the 2 formats in respect with participants needs.
 
 ![subgroup at work](images/groupe-coach-retreat-bordeaux-2013-flou.jpg)
