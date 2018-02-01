@@ -1,4 +1,4 @@
-##Scenario 3 - Nederlands
+##Scenario 3: the agile black box  - Nederlands
 
 **Mark** beheert een departement met verschillende development teams. Eén team werkt in Agile modus. Ze hebben zichzelf het proces aangeleerd. Zij beweren zelfgeorganiseerd in sprints te werken. Maar niemand buiten het team blijkt te begrijpen wat er gebeurt, hoe het werkt, wat er effectief gedaan wordt … 
 
