@@ -1,4 +1,4 @@
-##Scenario 1 - Nederlands
+##Scenario 1 the fight for pairing - Nederlands
 
 Je werkt met 4 medewerkers aan een project dat achterloopt zowel op tijd als op budget. 2 weken geleden heeft jouw manager **Wim** je tot technical lead van het team benoemd om het project af te werken. 
 De codekwaliteit is behoorlijk laag. 
