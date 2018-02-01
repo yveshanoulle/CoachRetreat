@@ -1,4 +1,4 @@
-##Scenario 1
+##Scenario 1: the fight for pairing
 
 You work with 4 people on a project, which is behind schedule and over budget. You were brought in two weeks ago by your manager **Wim** as a technical leader to help with the project completion. 
 The level of quality of the code is quite low. 
