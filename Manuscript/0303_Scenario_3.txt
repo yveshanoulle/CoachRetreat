@@ -1,4 +1,4 @@
-##Scénario 3
+##Scénario 3: the agile black box - French
 
 **Marc** gère un département d'études composé de plusieurs équipes de développement. Une de ces équipes fonctionne en mode Agile, elle a effectué sa transition par elle-même vers cette démarche. Ils se disent auto-organisés, plutôt avancé avec des itérations, mais personne à l'extérieur de l'équipe ne semble savoir ce qui se passe, comment ça fonctionne, qu'est-ce ce qui est réalisé, etc... 
 
