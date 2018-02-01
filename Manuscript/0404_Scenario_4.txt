@@ -1,4 +1,4 @@
-##Scenario 4 : Nederlands
+##Scenario 4 : what does “simple” mean? - Nederlands
 
 **Alain** is een IT’er die heel enthousiast is over Agile. Hij besloot daarom ook voor al zijn projecten over te stappen op Agile.
 De development teams blijken er ook voor gewonnen en gemotiveerd om Scrum te doen. Ze hadden al wat eerder ervaring met Agile. Voor het project wordt **Murielle** als PO aangeduid. Zij is een Business Analist. 
