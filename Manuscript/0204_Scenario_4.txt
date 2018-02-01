@@ -1,4 +1,4 @@
-##Scenario 4
+##Scenario 4: what does “simple” mean?
 
 **Alan** is an IT person who is very enthusiastic about agility; He decided to go for agile for all projects. 
 His development teams are also on board and motivated to do Scrum. They had previously experience in agile. To implement the project, they chose **Murielle** as a PO. She is a Business Analyst. 
