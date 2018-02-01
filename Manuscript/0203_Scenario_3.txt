@@ -1,4 +1,4 @@
-##Scenario 3
+##Scenario 3: the agile black box 
 
 **Marc** manages a study department composed of several development teams. One of these teams is working in Agile mode; they "transitioned" themselves to this approach. They say they are self-organized, quite advanced with iterations, but nobody outside team seems to know what’s happening, how it works, what is done, etc... 
 
