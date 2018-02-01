@@ -1,4 +1,4 @@
-##Scenario 6
+##Scenario 6: could agile possibly fix things? 
 
 The relationship between Business and IT is at its lowest.
 For **Pierre-Antoine**, a Senior VP, IT costs a fortune and produces little, they see IT as bureaucratic as they always ask for more paperwork. IT is confused about how they can know what to build?
