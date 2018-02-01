@@ -1,4 +1,4 @@
-##Scénario 4
+##Scénario 4: what does “simple” mean? - French
 
 **Alain** est un IT très enthousiaste par rapport à l’agilité, il a décidé de faire tous ses projets en Agile. Ses équipes de développement sont aussi embarquées et motivés pour faire du Scrum. Elles avaient déjà expérimenté l'Agilité antérieurement. Pour mettre en place le projet, il choisissent Murielle comme PO. Elle est Business Analyst. Il lui a été dit qu'en agile, il faut fournir les spécifications sous forme de simples user stories. Ca peut marcher pour Alain, mais ce n’est pas très clair : que veut dire "simple" ? 
 
