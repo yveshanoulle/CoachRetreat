@@ -1,4 +1,4 @@
-##Scenario 5 : Nederlands
+##Scenario 5 : Is testing as a valuable activity?  Nederlands
 
 Een externe ISO audit heeft vastgesteld dat de CRM toepassingen niet naar behoren zijn getest. Na de audit worden testuitvoer door het top IT management als hoogste prioriteit gezet. Het management vraagt naar test KPI’s, zodat ze bij een volgende audit vooruitgang kunnen rapporteren. 
 
