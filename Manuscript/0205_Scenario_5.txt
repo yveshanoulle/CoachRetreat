@@ -1,4 +1,4 @@
-##Scenario 5
+##Scenario 5: Is testing as a valuable activity? 
 
 
 An audit of The Regulation Office has identified that a CRM application was not properly tested. Following this audit, performing tests was reported as a high priority by the top management of IT. Management asked for KPIs for tests, so they can show progress in order to present them to the REO (Regulation Executive Officer). 
