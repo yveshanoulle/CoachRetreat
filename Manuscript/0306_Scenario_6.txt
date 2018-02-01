@@ -1,4 +1,4 @@
-##Scénario 6
+##Scénario 6: could agile possibly fix things? - French
 
 Les rapports entre le Business et l'IT sont on ne peut plus tendus. Pour **Pierre-Antoine**, un directeur Senior, l'IT coûte une fortune et produit peu, ils voient l'IT comme bureaucratique, toujours à demander plus de travail papiers. "L'IT est confuse à propos de comment ils peuvent savoir quoi construire ? La preuve: depuis la dernière démarche d'amélioration CMMI, on ne peut plus rien leur demander sans remplir un formulaire dans un outil informatique abscons, comme ça ils évitent toute responsabilité. 
 
