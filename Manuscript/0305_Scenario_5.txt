@@ -1,4 +1,4 @@
-##Scénario 5
+##Scénario 5: Is testing as a valuable activity? -French
 
 Un audit de l'Inspection Générale a identifié que les applications de CRM n'étaient pas correctement testées. Suite à cet audit, les tests ont été déclarés comme étant la priorité par le top management de l'IT. Le management demande à avoir des indicateurs d'avancement des tests, pour pouvoir les présenter au directeur de l'IG, sans succès. 
 
