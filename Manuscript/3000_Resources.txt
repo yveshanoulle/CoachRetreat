@@ -7,6 +7,15 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 + [Oana Juncu](http://oanasagile.blogspot.fr/2011/09/coachretreat.html)
 + [Yves Hanoulle](http://www.hanoulle.be/2012/01/what-is-a-coach-retreat)
 
+### Books related to CoachRetreat
+
++ [Toyota Kata](https://en.wikipedia.org/wiki/Toyota_Kata)
++ [Words that change minds](https://wordsthatchangeminds.com/)
++ [GROW](https://en.wikipedia.org/wiki/GROW_model)
++ [Coaching For performance](https://www.performanceconsultants.com/coaching-for-performance-book)
+
+
+
 ###Check In / Core protocols
 + [The McCarthy Check in protocol](http://liveingreatness.com/core-protocols/check-in)
 + [Jim and Michele McCarthy book on the Core Protocols](https://liveingreatness.com/software-for-your-head-book)
