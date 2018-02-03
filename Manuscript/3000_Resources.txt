@@ -15,7 +15,9 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 + [Coaching For performance](https://www.performanceconsultants.com/coaching-for-performance-book)
 + [Time to think](http://www.timetothink.com/)
 
+###Prime Directive
 
++ [Norm Kerth from Prime Directive needs your help.](http://www.processimpact.com/norm_kerth.html)
 
 ###Check In / Core protocols
 + [The McCarthy Check in protocol](http://liveingreatness.com/core-protocols/check-in)
