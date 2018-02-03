@@ -17,7 +17,8 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 
 ###Prime Directive
 
-+ [Norm Kerth from Prime Directive needs your help.](http://www.processimpact.com/norm_kerth.html)
++ [Norm Kerth inventor of Prime Directive needs your help.](http://www.processimpact.com/norm_kerth.html)
++ [Project Retrospectives](https://books.google.se/books/about/Project_retrospectives.html?id=BxROAQAAIAAJ)
 
 ###Check In / Core protocols
 + [The McCarthy Check in protocol](http://liveingreatness.com/core-protocols/check-in)
