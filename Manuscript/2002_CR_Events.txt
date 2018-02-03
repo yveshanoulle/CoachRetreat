@@ -8,12 +8,17 @@ Check out this page to see who you know to contact. Or contact Oana or Yves to h
 | CR No. | Location           | Date          | Notes                                                              |
 |--------|--------------------|---------------|--------------------------------------------------------------------|
 | CR 33  | Toulouse,France    | No date yet   | Oana Juncu, Rachel Jolin Dubois                                    |
-| CR 32  | Stockholm,Sweden   | Februari 2018 | Marcin Floryan, Yves Hanoulle                                      |
-| CR 31  | Gent, Belgium      | Januari 2018  | Inge Gorgon, Yves Hanoulle                                         |
 | CR XX  | Spain              |               | Local organizers looking for date and place                        |
 | CR XX  | Germany            |               | Event requested. No organizers yet                                 |
 | CR XX  | Israel             |               | Looking for local organizers, date, place                          |
 | CR XX  | UK                 |               | Looking for local organizers, date, place                          |
+
+{title=“2018 Coach Retreats”}
+| CR No. | Location           | Date          | Notes                                                              |
+|--------|--------------------|---------------|--------------------------------------------------------------------|
+| CR 32  | Stockholm,Sweden   | Februari 2018 | Gitte Kitgaard, Yves Hanoulle                                      |
+| CR 31  | Gent, Belgium      | Januari 2018  | Inge Gorgon, Yves Hanoulle                                         |
+
 
 {title=“2017 Coach Retreats”}
 | CR No. | Location                  | Date                   | Facilitators                                                       |
