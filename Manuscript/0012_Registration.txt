@@ -5,4 +5,5 @@ You can find these events here: https://www.eventbrite.com/o/coachretreat-158764
 
 Alternatively, you may use your registration platform of choice, such as your own EventBrite account, Meetup.com or other.
 
-At this moment we are trying an experiment with separate tickets for women and men. With a similar experiment at CoderDojo Belgium, Yves noticed that overall diversity skyrocked. (Not just male/female %, also more none-white people subscribed. )
+We tried an experiment (CR32) with separate tickets for women and men. With a similar experiment at CoderDojo Belgium, Yves noticed that overall diversity skyrocked. (Not just male/female %, also more none-white people subscribed. ) With CoachRetreat 32 non-binary people felt excluded. We created a separate ticket for these people, 1 subscribed, yet did  not show u. After CR32, we are back to 1 ticket. 
+
