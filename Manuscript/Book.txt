@@ -26,6 +26,7 @@
 0028_PaintingRoom.txt
 0029_InspirationWall.txt
 0030_PrimeDirective.txt
+0031_FacilitationTips.txt
 
 0100_Sessions.txt
 0101_ClickRewind.txt
