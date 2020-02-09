@@ -15,20 +15,31 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 + [Coaching For performance](https://www.performanceconsultants.com/coaching-for-performance-book)
 + [Time to think](http://www.timetothink.com/)
 + [People making](), Virgina Satir
-+ [Non-violent communication]() Marshall B Rosenberg
++ [The drama of the gifted child](), Alice Miller
++ [Non-violent communication](), Marshall B Rosenberg
++ [Emontional Inteligence](), Goleman
++ [Man are comming from Mars, Women from Venus](), Gray
++ [Theory U](), Otto Scharmer
 + [Families and how to survive them]() Robin Skynner & John Cleese
 + [The Road less travelled](), M Scott Peck
-+ [Onortodxee interventies bij coachen]()
-+ [De Stad van Axen)(), Ferdinant Cuvelier
-+ [Verboden toegang]() Bakker & Bakker
 + [Radical Candor]()
 + [TA today A new introduction for Transactional analysis]()
 + [The explosive child](), Ross W Greene
 + [Lean in ](), Sheryl Sandberg
++ [The answer to how is yes](), Peter Block
 + [Dynamics of Software development](), Jim Mccarthy 
 + [The psychology of computer programming](https://www.amazon.co.uk/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420/), Weinberg
 + [Secrets of Consultancy](https://www.amazon.co.uk/Secrets-Consulting-Successfully-Weinberg-Paperback/dp/B00M0NF74O/), Weinberg
 + [Becomming a technical leader](https://www.amazon.co.uk/Becoming-Technical-Leader-Problem-solving-Approach/dp/0932633021/), Weinberg
+
+### Nederlands boeken 
+
++ [Onortodxee interventies bij coachen]()
++ [De Stad van Axen)(), Ferdinant Cuvelier
++ [Verboden toegang]() Bakker & Bakker
++ [De therapeut als clown]() Ernst Knijf
+
+
 
 ###Prime Directive
 
