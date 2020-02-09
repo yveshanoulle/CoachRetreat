@@ -14,32 +14,29 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 + [GROW](https://en.wikipedia.org/wiki/GROW_model)
 + [Coaching For performance](https://www.performanceconsultants.com/coaching-for-performance-book)
 + [Time to think](http://www.timetothink.com/)
-+ [People making](), Virgina Satir
-+ [The drama of the gifted child](), Alice Miller
-+ [Non-violent communication](), Marshall B Rosenberg
-+ [Emontional Inteligence](), Goleman
-+ [Man are comming from Mars, Women from Venus](), Gray
-+ [Theory U](), Otto Scharmer
-+ [Families and how to survive them]() Robin Skynner & John Cleese
-+ [The Road less travelled](), M Scott Peck
-+ [Radical Candor]()
-+ [TA today A new introduction for Transactional analysis]()
-+ [The explosive child](), Ross W Greene
-+ [Lean in ](), Sheryl Sandberg
-+ [The answer to how is yes](), Peter Block
-+ [Dynamics of Software development](), Jim Mccarthy 
++ [People making](https://www.amazon.co.uk/New-Peoplemaking-Virginia-M-Satir/dp/0831400706), Virgina Satir
++ [The drama of the gifted child](https://www.amazon.co.uk/gp/product/0465012612/), Alice Miller
++ [Non-violent communication](https://www.amazon.co.uk/Nonviolent-Communication-Language-Life-Guides/dp/189200528X), Marshall B Rosenberg
++ [Emontional Inteligence](https://www.amazon.co.uk/Emotional-Intelligence-Matter-More-Than/dp/0747528306), Goleman
++ [Man are from Mars, Women from Venus](https://www.amazon.co.uk/Mars-Women-Venus-Communication-Relationships/dp/0007152590), Gray
++ [Theory U](https://www.amazon.co.uk/Theory-Leading-C-Otto-Scharmer/dp/1626567980/), Otto Scharmer
++ [Families and how to survive them](https://www.amazon.co.uk/Families-Survive-Them-Cedar-Books/dp/0749314109) Robin Skynner & John Cleese
++ [The Road less travelled](https://www.amazon.co.uk/Road-Less-Travelled-Arrow-New-Age/dp/0099727404/), M Scott Peck
++ [Radical Candor](https://www.amazon.co.uk/Radical-Candor-What-Want-Saying/dp/1509845380)
++ [TA today A new introduction for Transactional analysis](https://www.amazon.co.uk/Today-New-Introduction-Transactional-Analysis/dp/1870244028/)
++ [The explosive child](https://www.amazon.co.uk/Explosive-Child-Understanding-Frustrated-Chronically/dp/0062270451), Ross W Greene
++ [Lean in](https://www.amazon.co.uk/Lean-Women-Work-Will-Lead/dp/0753541645/), Sheryl Sandberg
++ [The answer to how is yes](https://www.amazon.co.uk/Answer-How-Yes-Acting-Matters/dp/1576752712/), Peter Block
++ [Dynamics of Software development](https://www.amazon.co.uk/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238/), Jim Mccarthy 
 + [The psychology of computer programming](https://www.amazon.co.uk/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420/), Weinberg
 + [Secrets of Consultancy](https://www.amazon.co.uk/Secrets-Consulting-Successfully-Weinberg-Paperback/dp/B00M0NF74O/), Weinberg
 + [Becomming a technical leader](https://www.amazon.co.uk/Becoming-Technical-Leader-Problem-solving-Approach/dp/0932633021/), Weinberg
 
 ### Nederlands boeken 
 
-+ [Onortodxee interventies bij coachen]()
-+ [De Stad van Axen)(), Ferdinant Cuvelier
-+ [Verboden toegang]() Bakker & Bakker
-+ [De therapeut als clown]() Ernst Knijf
-
-
++ [Onortodxee interventies bij coachen](https://www.amazon.com/Onorthodoxe-interventies-bij-coachen-ontregelen/dp/9024403960/), Brouwer
++ [De Stad van Axen)(https://www.amazon.com/stad-van-Axen-menselijke-relaties/dp/9086870252), Ferdinant Cuvelier
++ [Verboden toegang](https://www.amazon.com/Verboden-Toegang-verkenning-Menselijk-Territorium/dp/9028900055/) Bakker & Bakker
 
 ###Prime Directive
 
