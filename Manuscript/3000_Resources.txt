@@ -14,6 +14,21 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 + [GROW](https://en.wikipedia.org/wiki/GROW_model)
 + [Coaching For performance](https://www.performanceconsultants.com/coaching-for-performance-book)
 + [Time to think](http://www.timetothink.com/)
++ [People making](), Virgina Satir
++ [Non-violent communication]() Marshall B Rosenberg
++ [Families and how to survive them]() Robin Skynner & John Cleese
++ [The Road less travelled](), M Scott Peck
++ [Onortodxee interventies bij coachen]()
++ [De Stad van Axen)(), Ferdinant Cuvelier
++ [Verboden toegang]() Bakker & Bakker
++ [Radical Candor]()
++ [TA today A new introduction for Transactional analysis]()
++ [The explosive child](), Ross W Greene
++ [Lean in ](), Sheryl Sandberg
++ [Dynamics of Software development](), Jim Mccarthy 
++ [The psychology of computer programming](https://www.amazon.co.uk/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420/), Weinberg
++ [Secrets of Consultancy](https://www.amazon.co.uk/Secrets-Consulting-Successfully-Weinberg-Paperback/dp/B00M0NF74O/), Weinberg
++ [Becomming a technical leader](https://www.amazon.co.uk/Becoming-Technical-Leader-Problem-solving-Approach/dp/0932633021/), Weinberg
 
 ###Prime Directive
 
@@ -47,6 +62,9 @@ These are the books, blogposts, video's etc about techniques we mention in this 
 ###Clean Language
 
 + [Twelve Basic Clean Language Questions](http://www.cleanlanguage.co.uk/articles/articles/127/1/Coaching-with-Metaphor/Page1.html)
++ [Dutch-Clean-Question]( https://cleanlanguage.co.uk/articles/articles/220/2/Dutch-Clean-Questions-2008/Page2.html)
++[Words that tough](https://www.amazon.co.uk/Words-that-Touch-Questions-Therapists/dp/184819336X)
++[From Contempt to Curiosity: Creating the Conditions for Groups to Collaborate Using Clean Language and Systemic Modelling](https://www.amazon.co.uk/Contempt-Curiosity-Conditions-Collaborate-Modelling/dp/0957486618/)
 
 ###Crucial Conversations
 
